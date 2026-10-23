@@ -6,3 +6,6 @@ __pycache__/
 # Large downloads and intermediate files; rebuild with the scripts
 data/raw/
 data/interim/
+
+# Model training logs
+catboost_info/
